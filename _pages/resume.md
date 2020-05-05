@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download resume here](http://academicpages.github.io/files/nephele-agrafiotis.pdf)
+[View & Download Here](http://nephagra.github.io/files/nephele-agrafiotis.pdf)
