@@ -12,20 +12,20 @@ redirect_from:
 Overview
 ------
 
-* Languages:
-  * Programming: C++, Java
-  * Scripting: Python, JavaScript
-  * Statistics: R, SAS, STATA, SPSS
-  * Markup: HTML, LaTeX
+* **Languages**:
+  * **Programming**: C++, Java
+  * **Scripting**: Python, JavaScript
+  * **Statistics**: R, SAS, STATA, SPSS
+  * **Markup**: HTML, LaTeX
   * Native English, Fluent Greek
-* Operating Systems: Windows, Linux
-* Visualization: VMD, NAMD, Spotfire
-* Data:
+* **Operating Systems**: Windows, Linux
+* **Visualization**: VMD, NAMD, Spotfire
+* **Data**:
   * Web scraping
   * Data Cleaning
   * Annotation & Labeling
   * SQL
-* Python Packages: NumPy, Pandas, OpenCV, Matplotlib, TensorFlow, PyTorch
+* **Python Packages**: NumPy, Pandas, OpenCV, Matplotlib, TensorFlow, PyTorch
 
   
 Programming
