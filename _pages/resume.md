@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Statistics, University of California, Los Angeles, 2015 - 2019
+* M.S. in Computer Science, Georgia Institue of Technology, 2019 - Present
 
-Work experience
+Work Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
