@@ -9,14 +9,29 @@ redirect_from:
 
 {% include base_path %}
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Overview
+------
+* Programming Languages
+  * C++
+  * Java
+* Scripting Languages
+  * Python
+  * JavaScript
+* Statistical Languages
+  * R
+  * SAS
+  * STATA
+  * SPSS
+* Markup Languages
+  * HTML
+  * LaTeX
+* Operating Systems
+  * Windows
+  * Linux
+* Languages
+  * Native English
+  * Fluent Greek
+  	* Test
   
 Service and leadership
 ======
