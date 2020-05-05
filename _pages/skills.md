@@ -11,9 +11,7 @@ redirect_from:
   
 Overview
 ------
-* Programming Languages
-  * C++
-  * Java
+* Programming Languages:	C++		Java
 * Scripting Languages
   * Python
   * JavaScript
@@ -28,10 +26,13 @@ Overview
 * Operating Systems
   * Windows
   * Linux
+* Other Technical Skills
+  * SQL
+  * VMD
+  * NAMD
 * Languages
   * Native English
   * Fluent Greek
-  	* Test
   
 Service and leadership
 ======
