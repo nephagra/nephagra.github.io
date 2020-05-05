@@ -11,29 +11,28 @@ redirect_from:
   
 Overview
 ------
-* Programming Languages:	C++		Java
-* Scripting Languages
-  * Python
-  * JavaScript
-* Statistical Languages
-  * R
-  * SAS
-  * STATA
-  * SPSS
-* Markup Languages
-  * HTML
-  * LaTeX
-* Operating Systems
-  * Windows
-  * Linux
-* Other Technical Skills
+* Languages:
+  * Programming: C++, Java
+  * Scripting: Python, JavaScript
+  * Statistics: R, SAS, STATA, SPSS
+  * Markup: HTML, LaTeX
+  * Native English, Fluent Greek
+* Operating Systems: Windows, Linux
+* Visualization: VMD, NAMD, Spotfire
+* Data:
+  * Web scraping
+  * Data Cleaning
+  * Annotation & Labeling
   * SQL
-  * VMD
-  * NAMD
-* Languages
-  * Native English
-  * Fluent Greek
+* Python Packages: NumPy, Pandas, OpenCV, Matplotlib, TensorFlow, PyTorch
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Programming
+------
+
+TBA
+
+Data & Statistics
+------
+
+TBA
