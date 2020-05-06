@@ -21,7 +21,7 @@ Overview
 * **Operating Systems**: Windows, Linux
 * **Visualization**: VMD, NAMD, Spotfire
 * **Data**:
-  * Web scraping
+  * Web Scraping
   * Data Cleaning
   * Annotation & Labeling
   * SQL
