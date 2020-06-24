@@ -42,6 +42,7 @@ Where I Have Learned & Used Each Skill
 * **LaTeX** - UCLA STATS 140SL
 * **SQL** - GRASP Lab, UCLA STATS 131
 
+
 * **NumpPy** - GRASP Lab, UCLA STATS 131, GaTech CS 6475, GaTech CS 7638, GaTech CS 6476
 * **Pandas** - GRASP Lab, UCLA STATS 131
 * **OpenCV** - GRASP Lab, GaTech CS 6475, GaTech CS 6476
@@ -49,9 +50,11 @@ Where I Have Learned & Used Each Skill
 * **TensorFlow** - GRASP Lab, Udacity Intro to TensorFlow for Deep Learning
 * **PyTorch** - GRASP Lab, Udacity Intro to Deep Learning with PyTorch
 
+
 * **VMD** - Biomedical Research Foundation Academy of Athens
 * **NAMD** - Biomedical Research Foundation Academy of Athens
 * **Spotfire** - Bristol-Meyers Squibb
+
 
 * **Windows** - Personal Use, UCLA, GaTech, Johnson&Johnson, Bristol-Meyers Squibb
 * **Linux** - GRASP Lab, Biomedical Research Foundation Academy of Athens
